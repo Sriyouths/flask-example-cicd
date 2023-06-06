@@ -2,7 +2,7 @@
 # No tests for release workflow, since tests should alreave have run for prod pipeline
 # On successful build and test it will create a docker image for productive environment and push it to a repository
 
-name: Sri PROD - Deploy Release
+name: Sriy PROD - Deploy Release
 
 on:
   release:
